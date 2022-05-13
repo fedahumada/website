@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Federico Ahumada</h1>
-<h3 align="center">A .NetCore trainee developer from Argentina.</h3>
+<h3 align="center"> .NetCore trainee developer from Argentina.</h3>
 
-- 🌱 I’m currently learning **ADO.NET , ASP.NET , Entity Framework , Oracle**
+- 🌱 I'M CURRENTLY LEARNING **ADO.NET , ASP.NET , Entity Framework , Oracle**
 
-- 📫 How to reach me **ahufede@gmail.com**
+- 📫 HOW TO REACH ME: **ahufede@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
